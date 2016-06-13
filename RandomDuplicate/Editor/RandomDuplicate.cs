@@ -118,8 +118,4 @@ public class RandomDuplicate : EditorWindow {
         scaleMax = EditorGUILayout.Vector3Field("Maximum scale values", scaleMax);
     }
 
-    void OnValidate()
-    {
-        
-    }
 }
