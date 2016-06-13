@@ -18,3 +18,5 @@ Go to `Window -> Random Duplicate -> Settings` to set your preferences, like:
 Now, with a selected **GameObject** go to `Window -> Random Duplicate -> Duplicate`
 
 # Screenshot
+###### _(GIF really)_
+![Random Duplicate](https://raw.githubusercontent.com/ibito/Unity-Random-Duplicate/master/rd.gif)
