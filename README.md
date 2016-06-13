@@ -18,7 +18,7 @@ Go to `Window -> Random Duplicate -> Settings` to set your preferences, like:
 
 - Set value for scale range
 
-Now, with a selected **GameObject** go to `Window -> Random Duplicate -> Duplicate`
+Now, with a selected **GameObject** go to `Window -> Random Duplicate -> Duplicate` or use `Ctrl (or Cmd in Mac) + Shift + D`
 
 # Screenshot
 ###### _(GIF really)_
